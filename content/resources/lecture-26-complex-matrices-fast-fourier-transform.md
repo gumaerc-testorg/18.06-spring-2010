@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 26: Complex matrices; fast fourier transform'
 uid: 7da4985a-c076-5564-c8aa-3eccb1a1e97e
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/26.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/a17ec61b39b35271bd193e3c5ca75dd3_M0Sa8fLOajA.vtt
+  video_captions_file: /courses/18-06-linear-algebra-spring-2010/a17ec61b39b35271bd193e3c5ca75dd3_M0Sa8fLOajA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/M0Sa8fLOajA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/68440cfc1e8760b75bddc09bc8d374d6_M0Sa8fLOajA.pdf
+  video_transcript_file: /courses/18-06-linear-algebra-spring-2010/68440cfc1e8760b75bddc09bc8d374d6_M0Sa8fLOajA.pdf
 video_metadata:
   youtube_id: M0Sa8fLOajA
 ---

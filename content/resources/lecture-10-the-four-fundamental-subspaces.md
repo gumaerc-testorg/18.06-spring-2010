@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: The four fundamental subspaces'
 uid: b39b3ec5-0faa-b61a-b04d-8285b5fd89d8
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/10.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/954095a1191a51afa66bea4c98ed62c6_nHlE7EgJFds.vtt
+  video_captions_file: /courses/18-06-linear-algebra-spring-2010/954095a1191a51afa66bea4c98ed62c6_nHlE7EgJFds.vtt
   video_thumbnail_file: https://img.youtube.com/vi/nHlE7EgJFds/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/55c07f16c1f8592e3f0457652ab11634_nHlE7EgJFds.pdf
+  video_transcript_file: /courses/18-06-linear-algebra-spring-2010/55c07f16c1f8592e3f0457652ab11634_nHlE7EgJFds.pdf
 video_metadata:
   youtube_id: nHlE7EgJFds
 ---

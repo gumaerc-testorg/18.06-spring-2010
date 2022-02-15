@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 17: Orthogonal matrices and Gram-Schmidt'
 uid: 5e46844b-dff6-1bef-cf30-6324290ba71c
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/17.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/75a7f53f38bc5968bce3a16f1899fb06_0MtwqhIwdrI.vtt
+  video_captions_file: /courses/18-06-linear-algebra-spring-2010/75a7f53f38bc5968bce3a16f1899fb06_0MtwqhIwdrI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/0MtwqhIwdrI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/e87f2914b2eb2f53e38688040c04b9b1_0MtwqhIwdrI.pdf
+  video_transcript_file: /courses/18-06-linear-algebra-spring-2010/e87f2914b2eb2f53e38688040c04b9b1_0MtwqhIwdrI.pdf
 video_metadata:
   youtube_id: 0MtwqhIwdrI
 ---

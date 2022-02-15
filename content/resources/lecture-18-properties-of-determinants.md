@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 18: Properties of determinants'
 uid: 3249e5e2-f015-9ecd-5dd9-c524465320f6
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/18.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/652ef7fba85b5d9796b1060ce229357a_srxexLishgY.vtt
+  video_captions_file: /courses/18-06-linear-algebra-spring-2010/652ef7fba85b5d9796b1060ce229357a_srxexLishgY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/srxexLishgY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/9c507ce90715ff08ef19d404938a00fa_srxexLishgY.pdf
+  video_transcript_file: /courses/18-06-linear-algebra-spring-2010/9c507ce90715ff08ef19d404938a00fa_srxexLishgY.pdf
 video_metadata:
   youtube_id: srxexLishgY
 ---

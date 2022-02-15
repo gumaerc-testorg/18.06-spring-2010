@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/c62f9f48bd4d526dabbd814f82dfae52_RWvi4Vx4CDc.vtt
+file: /media/courses/18-06-linear-algebra-spring-2010/c62f9f48bd4d526dabbd814f82dfae52_RWvi4Vx4CDc.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: c62f9f48-bd4d-526d-abbd-814f82dfae52

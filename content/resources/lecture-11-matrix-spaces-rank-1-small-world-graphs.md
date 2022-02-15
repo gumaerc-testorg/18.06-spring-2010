@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 11: Matrix spaces; rank 1; small world graphs'
 uid: c5986685-2654-38d7-dcfc-fb053ece78f7
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/11.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/9a9378015dca557ea4bdb00ee4539e45_2IdtqGM6KWU.vtt
+  video_captions_file: /courses/18-06-linear-algebra-spring-2010/9a9378015dca557ea4bdb00ee4539e45_2IdtqGM6KWU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/2IdtqGM6KWU/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/55da11f77a97298e289472a651e76f4f_2IdtqGM6KWU.pdf
+  video_transcript_file: /courses/18-06-linear-algebra-spring-2010/55da11f77a97298e289472a651e76f4f_2IdtqGM6KWU.pdf
 video_metadata:
   youtube_id: 2IdtqGM6KWU
 ---

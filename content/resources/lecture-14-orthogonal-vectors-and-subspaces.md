@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 14: Orthogonal vectors and subspaces'
 uid: 70a8aa5c-146f-5edf-f5e1-c040db373113
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/14.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/88905561ff94510f9464c8332d4665ea_YzZUIYRCE38.vtt
+  video_captions_file: /courses/18-06-linear-algebra-spring-2010/88905561ff94510f9464c8332d4665ea_YzZUIYRCE38.vtt
   video_thumbnail_file: https://img.youtube.com/vi/YzZUIYRCE38/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/47d18e420743b6c0ff2851531f805bfc_YzZUIYRCE38.pdf
+  video_transcript_file: /courses/18-06-linear-algebra-spring-2010/47d18e420743b6c0ff2851531f805bfc_YzZUIYRCE38.pdf
 video_metadata:
   youtube_id: YzZUIYRCE38
 ---

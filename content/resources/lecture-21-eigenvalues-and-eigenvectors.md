@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Eigenvalues and eigenvectors'
 uid: 67a7b936-c6ab-017d-6990-6a3d24837506
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/21.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/cd951b4d5f165c1f9bfc1d7090be5ca2_cdZnhQjJu4I.vtt
+  video_captions_file: /courses/18-06-linear-algebra-spring-2010/cd951b4d5f165c1f9bfc1d7090be5ca2_cdZnhQjJu4I.vtt
   video_thumbnail_file: https://img.youtube.com/vi/cdZnhQjJu4I/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/8d0f7baefcedee6596eaab43c55122fe_cdZnhQjJu4I.pdf
+  video_transcript_file: /courses/18-06-linear-algebra-spring-2010/8d0f7baefcedee6596eaab43c55122fe_cdZnhQjJu4I.pdf
 video_metadata:
   youtube_id: cdZnhQjJu4I
 ---

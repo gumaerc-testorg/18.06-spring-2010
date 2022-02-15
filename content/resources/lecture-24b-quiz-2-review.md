@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 24b: Quiz 2 review'
 uid: 3da625db-9fd7-f62f-3a3f-b2a6d0dcc4c8
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/24b.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/9aae448a55f150d4985ed37e756ccea7_QuZL5IKpO_U.vtt
+  video_captions_file: /courses/18-06-linear-algebra-spring-2010/9aae448a55f150d4985ed37e756ccea7_QuZL5IKpO_U.vtt
   video_thumbnail_file: https://img.youtube.com/vi/QuZL5IKpO_U/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/3a4c9c7a6e90be05bff41ffcda51cf24_QuZL5IKpO_U.pdf
+  video_transcript_file: /courses/18-06-linear-algebra-spring-2010/3a4c9c7a6e90be05bff41ffcda51cf24_QuZL5IKpO_U.pdf
 video_metadata:
   youtube_id: QuZL5IKpO_U
 ---

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 32: Quiz 3 review'
 uid: f4caeb4f-5cbc-108c-5335-e31427987a7e
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/32.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/72f95321fb8751da9b131488417f2693_HgC1l_6ySkc.vtt
+  video_captions_file: /courses/18-06-linear-algebra-spring-2010/72f95321fb8751da9b131488417f2693_HgC1l_6ySkc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/HgC1l_6ySkc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/5b675f448f72e8c01d2d0a1ed62b98df_HgC1l_6ySkc.pdf
+  video_transcript_file: /courses/18-06-linear-algebra-spring-2010/5b675f448f72e8c01d2d0a1ed62b98df_HgC1l_6ySkc.pdf
 video_metadata:
   youtube_id: HgC1l_6ySkc
 ---

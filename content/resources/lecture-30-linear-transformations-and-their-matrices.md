@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 30: Linear transformations and their matrices'
 uid: c024f510-dfb0-bd83-ff16-f804d5983c27
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/30.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/5d25a6a498dc5be09e4e77fe6a2576fc_Ts3o2I8_Mxc.vtt
+  video_captions_file: /courses/18-06-linear-algebra-spring-2010/5d25a6a498dc5be09e4e77fe6a2576fc_Ts3o2I8_Mxc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Ts3o2I8_Mxc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/7ad2350defc787c1261729c57131ec6c_Ts3o2I8_Mxc.pdf
+  video_transcript_file: /courses/18-06-linear-algebra-spring-2010/7ad2350defc787c1261729c57131ec6c_Ts3o2I8_Mxc.pdf
 video_metadata:
   youtube_id: Ts3o2I8_Mxc
 ---

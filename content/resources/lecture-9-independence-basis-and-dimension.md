@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9: Independence, basis, and dimension'
 uid: a8f2e55a-61ed-2469-93e8-e771b35766e1
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/09.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/27daf302ed1a5b7db2a3adde066ac72c_yjBerM5jWsc.vtt
+  video_captions_file: /courses/18-06-linear-algebra-spring-2010/27daf302ed1a5b7db2a3adde066ac72c_yjBerM5jWsc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/yjBerM5jWsc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/36ad03fa0fce88a4b97f846156c11b8b_yjBerM5jWsc.pdf
+  video_transcript_file: /courses/18-06-linear-algebra-spring-2010/36ad03fa0fce88a4b97f846156c11b8b_yjBerM5jWsc.pdf
 video_metadata:
   youtube_id: yjBerM5jWsc
 ---

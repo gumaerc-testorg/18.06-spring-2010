@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 19: Determinant formulas and cofactors'
 uid: 52ef65a0-6611-f530-adcd-ff80f3d56e4e
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/19.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/2ca595250df15e88a4474de4231225e9_23LLB9mNJvc.vtt
+  video_captions_file: /courses/18-06-linear-algebra-spring-2010/2ca595250df15e88a4474de4231225e9_23LLB9mNJvc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/23LLB9mNJvc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/fa572a369c5feb991dabe351a9741f03_23LLB9mNJvc.pdf
+  video_transcript_file: /courses/18-06-linear-algebra-spring-2010/fa572a369c5feb991dabe351a9741f03_23LLB9mNJvc.pdf
 video_metadata:
   youtube_id: 23LLB9mNJvc
 ---

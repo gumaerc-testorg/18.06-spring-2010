@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: The geometry of linear equations'
 uid: e6719967-cc0a-48ef-7c12-2ec203472574
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/01.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/d292ec07b3ed5124ae1409dc520e61fe_J7DzL2_Na80.vtt
+  video_captions_file: /courses/18-06-linear-algebra-spring-2010/d292ec07b3ed5124ae1409dc520e61fe_J7DzL2_Na80.vtt
   video_thumbnail_file: https://img.youtube.com/vi/J7DzL2_Na80/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/f4e7ccf6e84b66c908c250fb85323f64_J7DzL2_Na80.pdf
+  video_transcript_file: /courses/18-06-linear-algebra-spring-2010/f4e7ccf6e84b66c908c250fb85323f64_J7DzL2_Na80.pdf
 video_metadata:
   youtube_id: J7DzL2_Na80
 ---
