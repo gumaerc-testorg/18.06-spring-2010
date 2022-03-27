@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 23: Differential equations and exp(At)'
 uid: 1568af1f-fb9e-c83b-dfed-b41742aab02b
 video_files:

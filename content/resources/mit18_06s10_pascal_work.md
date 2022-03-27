@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 6d4babc3-884f-613c-593e-2df8ac802a95
 resourcetype: Document
 title: MIT18_06S10_pascal_work.pdf
 uid: d61af89d-b7c6-303d-c024-e52d8ff18f96

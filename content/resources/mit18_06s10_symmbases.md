@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 6d4babc3-884f-613c-593e-2df8ac802a95
 resourcetype: Document
 title: MIT18_06S10_symmbases.pdf
 uid: 2c925bea-1688-8840-4287-bb6b848f79ca

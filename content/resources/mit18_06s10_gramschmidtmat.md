@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 6d4babc3-884f-613c-593e-2df8ac802a95
 resourcetype: Document
 title: MIT18_06S10_gramschmidtmat.pdf
 uid: 768d6fe7-3572-2547-c3f5-e74824532c53

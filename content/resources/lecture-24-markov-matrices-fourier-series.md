@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Markov matrices; fourier series'
 uid: f7be9e0b-3fed-ac90-071a-0f982ac10293
 video_files:

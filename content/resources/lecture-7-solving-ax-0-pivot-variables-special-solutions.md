@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Solving Ax = 0: pivot variables, special solutions'
 uid: fde5877a-b540-a313-30a1-ef06c5e1127d
 video_files:

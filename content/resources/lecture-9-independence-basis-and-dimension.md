@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Independence, basis, and dimension'
 uid: a8f2e55a-61ed-2469-93e8-e771b35766e1
 video_files:

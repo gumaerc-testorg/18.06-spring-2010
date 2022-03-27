@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c13c4766-c0cf-1486-f0cf-6435c531eaad
 resourcetype: Document
 title: MIT18_06S10_Final_Exam.pdf
 uid: b799045e-dd80-df18-8790-88bcf872b214

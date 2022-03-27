@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c13c4766-c0cf-1486-f0cf-6435c531eaad
 resourcetype: Document
 title: MIT18_06S10_exam1_s10_sol.pdf
 uid: b7efef97-4f7a-2c8b-5c92-5f5ea8fc9152

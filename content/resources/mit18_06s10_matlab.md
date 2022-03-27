@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 6d4babc3-884f-613c-593e-2df8ac802a95
 resourcetype: Document
 title: MIT18_06S10_matlab.pdf
 uid: a7d11b1b-00c1-c2bd-2574-c3f896ce4eb3
