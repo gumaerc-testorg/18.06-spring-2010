@@ -5,11 +5,13 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+related_resources_text: "[Readings](/courses/18-06-linear-algebra-spring-2010/pages/readings)\
+  \  \n[Table of Contents](/courses/18-06-linear-algebra-spring-2010/pages/readings#Table_of_Contents)"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -24,10 +26,13 @@ video_metadata:
   youtube_id: TSdXJw83kyA
 ---
 
-After a final discussion of positive definite matrices, we learn about "similar" matrices: _B_ = _M_{{< sup "\\-1" >}}_AM_ for some invertible matrix _M_. Square matrices can be grouped by similarity, and each group has a "nicest" representative in _Jordan normal form_. This form tells at a glance the eigenvalues and the number of eigenvectors.
+After a final discussion of positive definite matrices, we learn about "similar" matrices: _B_ = _M_{{< sup "\-1" >}}_AM_ for some invertible matrix _M_. Square matrices can be grouped by similarity, and each group has a "nicest" representative in _Jordan normal form_. This form tells at a glance the eigenvalues and the number of eigenvectors.
 
 These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.
 
 Strang, Gilbert. _Introduction to Linear Algebra_. 5th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2016. ISBN: 9780980232776.
 
 **Instructor/speaker:** Prof. Gilbert Strang
+
+
+

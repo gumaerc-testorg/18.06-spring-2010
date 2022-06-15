@@ -5,11 +5,13 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+related_resources_text: "[Readings](/courses/18-06-linear-algebra-spring-2010/pages/readings)\
+  \  \n[Table of Contents](/courses/18-06-linear-algebra-spring-2010/pages/readings#Table_of_Contents)"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -31,3 +33,6 @@ These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in
 Strang, Gilbert. _Introduction to Linear Algebra_. 5th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2016. ISBN: 9780980232776.
 
 **Instructor/speaker:** Prof. Gilbert Strang
+
+
+

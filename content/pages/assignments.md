@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides problem sets from the course text along with solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 87609dbb-a9d1-3a6b-234d-62de21a20433
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The problem sets make up 15% of the course grade. Problems are assigned from the required text: Strang, Gilbert. _Introduction to Linear Algebra_. 4th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2009. ISBN: 9780980232714.
@@ -51,7 +56,7 @@ Do problems:
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_06s10_pset1_s10_soln))
+({{% resource_link 22297c2a-6dcf-06d8-2e93-ee4af115e91a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +80,7 @@ Do problems:
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_06s10_pset2_s10_soln))
+({{% resource_link d039352a-aa83-a27f-11bb-2b3778ecfa96 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +102,7 @@ Do problems:
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_06s10_pset3_s10_soln))
+({{% resource_link 99823819-ffda-7c97-ddee-8abd68ca8764 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +122,7 @@ Do problems:
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_06s10_pset4_s10_soln))
+({{% resource_link 4ece22f9-c707-878e-1e57-b9840469490e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +142,7 @@ Problem set 5
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_06s10_pset5_s10_soln))
+({{% resource_link ef8cf047-287b-c629-eb24-3a691340c823 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +164,7 @@ Do problems:
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_06s10_pset6_s10_soln))
+({{% resource_link ace08d2d-5a7b-3212-29f1-91765c5ff2e3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +190,7 @@ Challenge problem in MATLAB
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_06s10_pset7_s10_soln))
+({{% resource_link 4d1ef28c-0836-e81c-aec9-122a69c7b931 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +212,7 @@ Do problems:
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_06s10_pset8_s10_soln))
+({{% resource_link 6e0208c1-241f-1977-97f2-757d680740c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -227,7 +232,7 @@ Do problems:
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_06s10_pset9_s10_soln))
+({{% resource_link 58e62cc9-3e3e-8b6c-b52e-72fa5830fc4e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +254,7 @@ Do problems:
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_06s10_pset10_s10_sol))
+({{% resource_link e6ea5d41-0406-6f87-4afe-1c34e06b8268 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides the schedule of readings assigned from the course
+  textbook along with the table of contents.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 81d6a1cd-707c-29b2-9d65-40b3e79d5433
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The readings are assigned in: Strang, Gilbert. _Introduction to Linear Algebra_. 4th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2009. ISBN: 9780980232714.
