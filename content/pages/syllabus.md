@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides information on course goals, meeting times,
+  prerequisites, required text, homework, exams, grading, and tools for numerical
+  linear algebra.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ede17211-bd49-ea16-6ed7-01f09c1de288
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -23,7 +32,7 @@ The readings are assigned in: Strang, Gilbert. _Introduction to Linear Algebra_.
 
 Reading assignments are also provided for the newer edition: Strang, Gilbert. _Introduction to Linear Algebra_. 5th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2016. ISBN: 9780980232776.
 
-NOTE: More material on linear algebra (and much more about differential equations) is in Professor Strang's 2014 textbook _[Differential Equations and Linear Algebra](http://www-math.mit.edu/~gs/dela)_. In 2016, the textbook was developed into a series of 55 short videos, _[Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler](/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/index.htm)._
+NOTE: More material on linear algebra (and much more about differential equations) is in Professor Strang's 2014 textbook _[Differential Equations and Linear Algebra](http://www-math.mit.edu/~gs/dela)_. In 2016, the textbook was developed into a series of 55 short videos, _[Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler](/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015)._
 
 Goals
 -----
@@ -102,4 +111,4 @@ Final exam
 MATLAB®
 -------
 
-Some homework problems will require you to use MATLAB, an important tool for numerical linear algebra. No previous MATLAB experience is required in 18.06. The [related resources]({{< baseurl >}}/pages/related-resources) section has links to information about MATLAB, including a tutorial.
+Some homework problems will require you to use MATLAB, an important tool for numerical linear algebra. No previous MATLAB experience is required in 18.06. The {{% resource_link 6d4babc3-884f-613c-593e-2df8ac802a95 "related resources" %}} section has links to information about MATLAB, including a tutorial.

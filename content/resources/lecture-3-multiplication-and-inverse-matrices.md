@@ -1,15 +1,28 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](/courses/18-06-linear-algebra-spring-2010/pages/readings)\
+  \  \n[Table of Contents](/courses/18-06-linear-algebra-spring-2010/pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Multiplication and inverse matrices'
 uid: 91874a0f-258a-eadf-12ff-66ed84bd4f8f
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/03.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/7460c549d93a598f9daaba421a2ed583_FX4C-JpTFgY.vtt
+  video_captions_file: /courses/18-06-linear-algebra-spring-2010/7460c549d93a598f9daaba421a2ed583_FX4C-JpTFgY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/FX4C-JpTFgY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-06-linear-algebra-spring-2010/07f82f7a07458fb3d79d1ba5cf53fa1e_FX4C-JpTFgY.pdf
+  video_transcript_file: /courses/18-06-linear-algebra-spring-2010/07f82f7a07458fb3d79d1ba5cf53fa1e_FX4C-JpTFgY.pdf
 video_metadata:
   youtube_id: FX4C-JpTFgY
 ---
@@ -21,3 +34,4 @@ These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in
 Strang, Gilbert. _Introduction to Linear Algebra_. 5th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2016. ISBN: 9780980232776.
 
 **Instructor/speaker:** Prof. Gilbert Strang
+

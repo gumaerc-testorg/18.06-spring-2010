@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section contains demonstrations on matrix multiplication and Eigenvalues.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: b5785e07-1ddb-991c-f3df-d7cc469e6397
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The flash animations were developed by Jean-Michel Claus (with voiceover by Gilbert Strang). We are grateful! Funding was provided by a grant from the [The d'Arbeloff Fund for Excellence in MIT Education](http://web.mit.edu/newsoffice/2000/darbeloff-1025.html) as part of The d'Arbeloff Interactive Mathematics Project (d'A I M P).
@@ -28,7 +36,7 @@ The demo is also broken into 7 independent pieces:
 *   [Part 6](/ans7870/18/18.06/tools/Applets_sound/eigen_sound_6.html)
 *   [Part 7](/ans7870/18/18.06/tools/Applets_sound/eigen_sound_7.html)
 
-[Demo 2](/ans7870/18/18.06/tools/Power_method/power_method_flash.html) - Powers AnV lead toward the top eigenvalue/eigenvector
+[Demo 2](/ans7870/18/18.06/tools/Power_method/power_method_flash.html) - Powers A{{< sup "n" >}}V lead toward the top eigenvalue/eigenvector
 
 Mini-lectures on Eigenvalues
 ----------------------------
