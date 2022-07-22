@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-06-linear-algebra-spring-2010/55da11f77a97298e289472a651e76f4f_2IdtqGM6KWU.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-06-linear-algebra-spring-2010/77997176bfd25617ae5332c3791b2018_Y_Ac6KiQ1t0.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

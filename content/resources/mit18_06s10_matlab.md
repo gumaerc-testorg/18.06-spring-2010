@@ -4,6 +4,7 @@ description: This resource contains information related to MATLAb tutorial.
 file: /courses/18-06-linear-algebra-spring-2010/a7d11b1b00c1c2bd2574c3f896ce4eb3_MIT18_06S10_matlab.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to MATLAb tutorial.
-

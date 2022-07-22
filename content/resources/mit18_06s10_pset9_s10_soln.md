@@ -5,6 +5,7 @@ file: /courses/18-06-linear-algebra-spring-2010/58e62cc93e3e8b6cb52e72fa5830fc4e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to Cholesky factorization.
-

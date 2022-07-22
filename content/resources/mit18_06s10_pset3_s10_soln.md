@@ -5,6 +5,7 @@ file: /courses/18-06-linear-algebra-spring-2010/99823819ffda7c97ddee8abd68ca8764
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to construction a matrices.
-

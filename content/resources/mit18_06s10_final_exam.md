@@ -5,6 +5,7 @@ file: /courses/18-06-linear-algebra-spring-2010/b799045edd80df18879088bcf872b214
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to problems for final exam.
-
