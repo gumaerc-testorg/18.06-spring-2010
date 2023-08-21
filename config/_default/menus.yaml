@@ -31,11 +31,7 @@ leftnav:
   name: Study Materials
   url: /pages/study-materials
   weight: 80
-- identifier: b5785e07-1ddb-991c-f3df-d7cc469e6397
-  name: Tools
-  url: /pages/tools
-  weight: 90
 - identifier: 6d4babc3-884f-613c-593e-2df8ac802a95
   name: Related Resources
   url: /pages/related-resources
-  weight: 100
+  weight: 90
