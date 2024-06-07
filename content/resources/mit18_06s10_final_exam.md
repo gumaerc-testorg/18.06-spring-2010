@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to problems for final exam.
 file: /courses/18-06-linear-algebra-spring-2010/b799045edd80df18879088bcf872b214_MIT18_06S10_Final_Exam.pdf
+file_size: 106909
 file_type: application/pdf
 learning_resource_types:
 - Exams
