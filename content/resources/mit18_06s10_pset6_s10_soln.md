@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to normal equations.
 file: /courses/18-06-linear-algebra-spring-2010/ace08d2d5a7b321229f191765c5ff2e3_MIT18_06S10_pset6_s10_soln.pdf
+file_size: 353084
 file_type: application/pdf
 learning_resource_types:
 - Assignments

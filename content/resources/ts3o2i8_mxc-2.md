@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-06-linear-algebra-spring-2010/5d25a6a498dc5be09e4e77fe6a2576fc_Ts3o2I8_Mxc.vtt
+file_size: 51424
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

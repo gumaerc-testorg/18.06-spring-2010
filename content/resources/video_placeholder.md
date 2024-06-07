@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-06-linear-algebra-spring-2010/7bd22457099804147171bf99693a25c1_video_placeholder.jpg
+file_size: 111771
 file_type: image/jpeg
 image_metadata:
   caption: ''
