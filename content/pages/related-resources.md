@@ -16,7 +16,7 @@ video_metadata:
 
 A new version of this classic Linear Algebra course was released in 2011 in the innovative OCW Scholar format designed for independent learners. [*18.06SC Linear Algebra*](/courses/18-06sc-linear-algebra-fall-2011) includes 35 lecture videos and 36 short (and highly-praised) problem-solving help videos by teaching assistants.
 
-Professor Strang has continued to offer new insights into key mathematics subjects. In 2014, he published the new textbook {{% resource_link "03ae7fd8-3956-4eb2-a384-30085efd547e" "*Differential Equations and Linear Algebra*" %}}. In 2016, that textbook was developed into a series of 55 short videos supported by MathWorks, with parallel videos about numerical solutions by Dr. Cleve Moler, the creator of MATLAB®. The textbook and video lectures help students in a basic ordinary differential equations course. This new series, [*Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler*](/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015), is also available on the {{% resource_link "10a38034-80c5-433c-a51a-03fa71597611" "MathWorks website" %}}.
+Professor Strang has continued to offer new insights into key mathematics subjects. In 2014, he published the new textbook [*Differential Equations and Linear Algebra*](http://www-math.mit.edu/~gs/dela/). In 2016, that textbook was developed into a series of 55 short videos supported by MathWorks, with parallel videos about numerical solutions by Dr. Cleve Moler, the creator of MATLAB®. The textbook and video lectures help students in a basic ordinary differential equations course. This new series, [*Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler*](/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015), is also available on the [MathWorks website](http://www.mathworks.com/academia/courseware/learn-differential-equations.html).
 
 In 2017, Professor Strang launched a new undergraduate course at MIT: [*18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning*](/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018). Published on the OCW site in 2019, the course uses linear algebra concepts for understanding and creating machine learning algorithms, especially as applied to deep learning and neural networks. This course reviews linear algebra with applications to probability and statistics and optimization and, above all, a full explanation of deep learning. 
 
@@ -24,25 +24,25 @@ Professor Strang's latest course on the topic is [*A 2020 Vision of Linear Algeb
 
 ## Professor Strang's Related Textbooks, Notes, and Videos
 
-Strang, Gilbert. *Introduction to Linear Algebra*. 5th ed. 2016. {{% resource_link "9923e646-ebeb-4f87-85d9-7816692cb9c3" "Wellesley-Cambridge Press" %}}.ISBN: 9780980232776.
+Strang, Gilbert. *Introduction to Linear Algebra*. 5th ed. 2016. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/).ISBN: 9780980232776.
 
-Strang, Gilbert. *Linear Algebra and Learning from Data*. 2019. {{% resource_link "9923e646-ebeb-4f87-85d9-7816692cb9c3" "Wellesley-Cambridge Press" %}}. ISBN: 9780692196380.
+Strang, Gilbert. *Linear Algebra and Learning from Data*. 2019. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/). ISBN: 9780692196380.
 
-Strang, Gilbert. *Linear Algebra for Everyone.* 2020. {{% resource_link "9923e646-ebeb-4f87-85d9-7816692cb9c3" "Wellesley-Cambridge Press" %}}. ISBN: 9781733146630.
+Strang, Gilbert. *Linear Algebra for Everyone.* 2020. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/). ISBN: 9781733146630.
 
-Strang, Gilbert. *Differential Equations and Linear Algebra*. 2014. {{% resource_link "9923e646-ebeb-4f87-85d9-7816692cb9c3" "Wellesley-Cambridge Press" %}}.ISBN: 9780980232790.
+Strang, Gilbert. *Differential Equations and Linear Algebra*. 2014. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/).ISBN: 9780980232790.
 
-{{% resource_link "11f07d8a-dd20-46a4-a501-47583bd0f9da" "Calculus Online Textbook" %}} First published in 1991 by {{% resource_link "9923e646-ebeb-4f87-85d9-7816692cb9c3" "Wellesley-Cambridge Press" %}}, this updated 3rd edition of the book is a useful resource for educators and self-learners alike. It includes the full online textbook, instructor's manual, and study guide.
+[Calculus Online Textbook](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/) First published in 1991 by [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), this updated 3rd edition of the book is a useful resource for educators and self-learners alike. It includes the full online textbook, instructor's manual, and study guide.
 
-{{% resource_link "4d876a91-59e3-2543-eb0d-73b4d4382f4c" "*ZoomNotes for Linear Algebra* (PDF)" %}}. Professor Strang created these notes in 2020 and 2021 when many MIT classes were moved online (using Zoom) due to the {{% resource_link "64e33120-c12a-40d8-a8e8-fb0f74931105" "COVID-19 Pandemic" %}}. He hopes that faculty who are planning a linear algebra course and students who are reading for themselves will see these notes.
+{{% resource_link "4d876a91-59e3-2543-eb0d-73b4d4382f4c" "*ZoomNotes for Linear Algebra* (PDF)" %}}. Professor Strang created these notes in 2020 and 2021 when many MIT classes were moved online (using Zoom) due to the [COVID-19 Pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic). He hopes that faculty who are planning a linear algebra course and students who are reading for themselves will see these notes.
 
-Guest speaker at the weekly OLSUME (Online Seminar on Undergraduate Mathematics Education) on the topic {{% resource_link "be9eb421-2c41-4120-9965-181454cc545f" "*Linear Algebra and Deep Learning* (MP4)" %}}
+Guest speaker at the weekly OLSUME (Online Seminar on Undergraduate Mathematics Education) on the topic [*Linear Algebra and Deep Learning* (MP4)](https://olsume.org/wp-content/uploads/2021/09/strang.mp4)
 
-{{% resource_link "bda1acb6-76d7-476c-b305-2dd3d614f0bf" "\"Linear Algebra, Teaching, and MIT OpenCourseWare\" (YouTube)" %}} on *Lex Fridman Podcast*
+["Linear Algebra, Teaching, and MIT OpenCourseWare" (YouTube)](https://www.youtube.com/watch?v=lEZPfmGCEk0&t=1s&ab_channel=LexFridman) on *Lex Fridman Podcast*
 
 ## Java® Demos
 
-The *Java® Demos* were developed by {{% resource_link "4a1022a7-8c3f-4885-b978-86772068908b" "Pavel Grinfeld" %}}.
+The *Java® Demos* were developed by [Pavel Grinfeld](https://drexel.edu/coas/faculty-research/faculty-directory/mathematics/Pavel-Grinfeld/).
 
 - [Eigenvalues](/ans7870/18/18.06/javademo/Eigen/)
 - [SVD (Singular Value Decomposition)](/ans7870/18/18.06/javademo/SVD/)
@@ -60,30 +60,30 @@ The *Java® Demos* were developed by {{% resource_link "4a1022a7-8c3f-4885-b978-
 
 ## Other Demos
 
-- {{% resource_link "57c6da4d-0883-4489-b21e-89526bd8588e" "Gauss-Jordan Demo" %}}
-- {{% resource_link "b494c6f2-58ad-49e3-8119-64622bfe696a" "LU Demo" %}}
-- {{% resource_link "73351b33-2830-4832-ac29-2d2c225ec2c5" "The Media Lab's Eigenfaces Demo" %}}
-- {{% resource_link "82b12230-fd9d-4a21-a501-751bef78ee71" "Projections of Famous and not so Famous Three and Four Dimensional Solids" %}}
+- [Gauss-Jordan Demo](http://web.mit.edu/18.06/www/Links/demogj)
+- [LU Demo](http://web.mit.edu/18.06/www/Demos/matlab-diaries/demolu)
+- [The Media Lab's Eigenfaces Demo](http://vismod.media.mit.edu/vismod/demos/facerec/basic.html)
+- [Projections of Famous and not so Famous Three and Four Dimensional Solids](http://pages.uoregon.edu/koch/hypersolids/hypersolids.html)
 
 ## MATLAB® Information
 
-- Best Guide to MATLAB® ({{% resource_link "69761f06-d6c5-4aec-bdbe-763451f3276f" "PDF" %}})
-- Short MATLAB® Tutorial ({{% resource_link "a7d11b1b-00c1-c2bd-2574-c3f896ce4eb3" "PDF" %}}) and Cool {{% resource_link "be35ab74-0a51-4ad2-8dc9-477d3abbad20" "MATLAB® demos" %}} by Mathworks
-- {{% resource_link "1674ce71-8be0-4890-ab3f-2910e785cd7e" "MATLAB® Recitation Demos from 1997" %}}
-- {{% resource_link "b1cade0f-5e95-489c-8f4f-39ccbf68fec6" "MATLAB® Teaching Codes" %}}
-- A MATLAB cheat sheet ({{% resource_link "fea478fe-d069-4c60-97b7-c0fde852f003" "PDF" %}})
+- Best Guide to MATLAB® ([PDF](https://homel.vsb.cz/~dom033/predmety/parisLA/01_matlab.pdf))
+- Short MATLAB® Tutorial ({{% resource_link "a7d11b1b-00c1-c2bd-2574-c3f896ce4eb3" "PDF" %}}) and Cool [MATLAB® demos](http://www.mathworks.com/products/demos/) by Mathworks
+- [MATLAB® Recitation Demos from 1997](http://web.mit.edu/18.06/www/MATLAB/Recitation.html)
+- [MATLAB® Teaching Codes](http://web.mit.edu/18.06/www/Course-Info/Tcodes.html)
+- A MATLAB cheat sheet ([PDF](http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf))
 
 ## Essays
 
 - Pascal Matrices ({{% resource_link "d61af89d-b7c6-303d-c024-e52d8ff18f96" "PDF" %}})
 - A Basis for 3 by 3 Symmetric Matrices ({{% resource_link "2c925bea-1688-8840-4287-bb6b848f79ca" "PDF" %}})
 - Gram-Schmidt in 9 Lines of MATLAB® ({{% resource_link "768d6fe7-3572-2547-c3f5-e74824532c53" "PDF" %}})
-- Linear Algebra and Music ({{% resource_link "62421e1e-15fd-44b8-9485-c2757b816d61" "PDF" %}})
+- Linear Algebra and Music ([PDF](http://web.mit.edu/18.06/www/Essays/linear-algebra-and-music.pdf))
 
 ## Essays on Teaching Linear Algebra
 
-- Too Much Calculus ({{% resource_link "d7f0f563-b8a6-4c88-bdf1-013a1c86f451" "PDF" %}})
-- Starting with Two Matrices ({{% resource_link "356c8eb6-8517-4250-9099-ad43c8b1ba6e" "PDF" %}})
-- The Four Fundamental Subspaces: 4 Lines ({{% resource_link "05b73a62-bae9-45e8-ad00-8b75f76e9bb9" "PDF" %}})
-- Fourier Sine Series Examples ({{% resource_link "11bcf5b8-3d89-48b6-b5ea-1b0baf372ab5" "PDF" %}})
-- Notes on function spaces, Hermitian operators, and Fourier series ({{% resource_link "ffae30f1-2269-4a97-8bd4-26254a1015e0" "PDF" %}})
+- Too Much Calculus ([PDF](http://web.mit.edu/18.06/www/Essays/too-much-calculus.pdf))
+- Starting with Two Matrices ([PDF](http://web.mit.edu/18.06/www/Essays/starting2matrices_ver5.pdf))
+- The Four Fundamental Subspaces: 4 Lines ([PDF](http://web.mit.edu/18.06/www/Essays/newpaper_ver3.pdf))
+- Fourier Sine Series Examples ([PDF](http://web.mit.edu/18.06/www/Fall07/sines.pdf))
+- Notes on function spaces, Hermitian operators, and Fourier series ([PDF](http://web.mit.edu/18.06/www/Fall07/operators.pdf))

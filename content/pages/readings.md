@@ -13,9 +13,9 @@ video_metadata:
   youtube_id: null
 ---
 
-The readings are assigned in: Strang, Gilbert. _Introduction to Linear Algebra_. 4th ed. {{% resource_link "9923e646-ebeb-4f87-85d9-7816692cb9c3" "Wellesley-Cambridge Press" %}}, 2009. ISBN: 9780980232714.
+The readings are assigned in: Strang, Gilbert. _Introduction to Linear Algebra_. 4th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2009. ISBN: 9780980232714.
 
-Reading assignments are also provided for the newer edition: Strang, Gilbert. _Introduction to Linear Algebra_. 5th ed. {{% resource_link "9923e646-ebeb-4f87-85d9-7816692cb9c3" "Wellesley-Cambridge Press" %}}, 2016. ISBN: 9780980232776.
+Reading assignments are also provided for the newer edition: Strang, Gilbert. _Introduction to Linear Algebra_. 5th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2016. ISBN: 9780980232776.
 
 {{< tableopen >}}
 {{< theadopen >}}
