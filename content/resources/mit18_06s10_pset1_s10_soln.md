@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to trigonometry formulas.
-file: /courses/18-06-linear-algebra-spring-2010/22297c2a6dcf06d82e93ee4af115e91a_MIT18_06S10_pset1_s10_soln.pdf
+file: /ol-ocw-studio-app/courses/18-06-linear-algebra-spring-2010/22297c2a6dcf06d82e93ee4af115e91a_MIT18_06S10_pset1_s10_soln.pdf
 file_size: 227552
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Gauss-Jordan elimination.
-file: /courses/18-06-linear-algebra-spring-2010/d039352aaa83a27f11bb2b3778ecfa96_MIT18_06S10_pset2_s10_soln.pdf
+file: /ol-ocw-studio-app/courses/18-06-linear-algebra-spring-2010/d039352aaa83a27f11bb2b3778ecfa96_MIT18_06S10_pset2_s10_soln.pdf
 file_size: 146109
 file_type: application/pdf
 learning_resource_types:
