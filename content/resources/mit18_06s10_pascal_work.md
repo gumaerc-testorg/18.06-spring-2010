@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Pascal matrices.
-file: /courses/18-06-linear-algebra-spring-2010/d61af89db7c6303dc024e52d8ff18f96_MIT18_06S10_pascal_work.pdf
+file: /ol-ocw-studio-app/courses/18-06-linear-algebra-spring-2010/d61af89db7c6303dc024e52d8ff18f96_MIT18_06S10_pascal_work.pdf
 file_size: 258737
 file_type: application/pdf
 learning_resource_types: []

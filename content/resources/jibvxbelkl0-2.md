@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-06-linear-algebra-spring-2010/eb5a7fe66ff6537aac15662f73d424b7_JibVXBElKL0.vtt
+file: /ol-ocw-studio-app/courses/18-06-linear-algebra-spring-2010/eb5a7fe66ff6537aac15662f73d424b7_JibVXBElKL0.vtt
 file_size: 50620
 file_type: application/x-subrip
 learning_resource_types: []

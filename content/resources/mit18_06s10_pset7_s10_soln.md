@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to tridiagonal matrix of order
   n.
-file: /courses/18-06-linear-algebra-spring-2010/4d1ef28c0836e81caec9122a69c7b931_MIT18_06S10_pset7_s10_soln.pdf
+file: /ol-ocw-studio-app/courses/18-06-linear-algebra-spring-2010/4d1ef28c0836e81caec9122a69c7b931_MIT18_06S10_pset7_s10_soln.pdf
 file_size: 113779
 file_type: application/pdf
 learning_resource_types:
