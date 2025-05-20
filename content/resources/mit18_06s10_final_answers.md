@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to answers for final exam.
 draft: false
-file: /ol-ocw-studio-app/courses/18-06-linear-algebra-spring-2010/45790724487e46dcc02f55d0fc092ab7_MIT18_06S10_Final_Answers.pdf
+file: /courses/18-06-linear-algebra-spring-2010/45790724487e46dcc02f55d0fc092ab7_MIT18_06S10_Final_Answers.pdf
 file_size: 362592
 file_type: application/pdf
 image_metadata:
