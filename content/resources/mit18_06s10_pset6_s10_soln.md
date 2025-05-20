@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to normal equations.
 draft: false
-file: /ol-ocw-studio-app/courses/18-06-linear-algebra-spring-2010/ace08d2d5a7b321229f191765c5ff2e3_MIT18_06S10_pset6_s10_soln.pdf
+file: /courses/18-06-linear-algebra-spring-2010/ace08d2d5a7b321229f191765c5ff2e3_MIT18_06S10_pset6_s10_soln.pdf
 file_size: 353084
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Assignments
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments

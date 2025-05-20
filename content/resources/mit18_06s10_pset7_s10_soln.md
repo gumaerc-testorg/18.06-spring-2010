@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to tridiagonal matrix of order
   n.
 draft: false
-file: /ol-ocw-studio-app/courses/18-06-linear-algebra-spring-2010/4d1ef28c0836e81caec9122a69c7b931_MIT18_06S10_pset7_s10_soln.pdf
+file: /courses/18-06-linear-algebra-spring-2010/4d1ef28c0836e81caec9122a69c7b931_MIT18_06S10_pset7_s10_soln.pdf
 file_size: 113779
 file_type: application/pdf
 image_metadata:
@@ -11,7 +11,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Assignments
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments

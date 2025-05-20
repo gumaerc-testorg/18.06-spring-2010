@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to construction a matrices.
 draft: false
-file: /ol-ocw-studio-app/courses/18-06-linear-algebra-spring-2010/99823819ffda7c97ddee8abd68ca8764_MIT18_06S10_pset3_s10_soln.pdf
+file: /courses/18-06-linear-algebra-spring-2010/99823819ffda7c97ddee8abd68ca8764_MIT18_06S10_pset3_s10_soln.pdf
 file_size: 159474
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Assignments
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
