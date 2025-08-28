@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to MATLAb tutorial.
 draft: false
-file: /courses/18-06-linear-algebra-spring-2010/a7d11b1b00c1c2bd2574c3f896ce4eb3_MIT18_06S10_matlab.pdf
+file: /ol-ocw-studio-app/courses/18-06-linear-algebra-spring-2010/a7d11b1b00c1c2bd2574c3f896ce4eb3_MIT18_06S10_matlab.pdf
 file_size: 159676
 file_type: application/pdf
 image_metadata:
