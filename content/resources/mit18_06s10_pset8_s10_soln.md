@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to skew-symmetric.
 draft: false
-file: /courses/18-06-linear-algebra-spring-2010/6e0208c1241f197797f2757d680740c0_MIT18_06S10_pset8_s10_soln.pdf
+file: /ol-ocw-studio-app/courses/18-06-linear-algebra-spring-2010/6e0208c1241f197797f2757d680740c0_MIT18_06S10_pset8_s10_soln.pdf
 file_size: 182430
 file_type: application/pdf
 image_metadata:

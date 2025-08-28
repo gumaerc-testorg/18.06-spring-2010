@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information related to Fredholm\u2019s alternative."
 draft: false
-file: /courses/18-06-linear-algebra-spring-2010/ef8cf047287bc629eb243a691340c823_MIT18_06S10_pset5_s10_soln.pdf
+file: /ol-ocw-studio-app/courses/18-06-linear-algebra-spring-2010/ef8cf047287bc629eb243a691340c823_MIT18_06S10_pset5_s10_soln.pdf
 file_size: 156072
 file_type: application/pdf
 image_metadata:
