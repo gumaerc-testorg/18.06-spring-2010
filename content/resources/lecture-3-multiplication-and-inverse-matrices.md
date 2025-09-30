@@ -32,7 +32,7 @@ This lecture looks at matrix multiplication from five different points of view. 
 
 These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.
 
-Strang, Gilbert. _Introduction to Linear Algebra_. 5th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2016. ISBN: 9780980232776.
+Strang, Gilbert. _Introduction to Linear Algebra_. 5th ed. {{% resource_link "5080900a-8e2a-4225-984f-6d7ae51cafd8" "Wellesley-Cambridge Press" %}}, 2016. ISBN: 9780980232776.
 
 **Instructor/speaker:** Prof. Gilbert Strang
 
