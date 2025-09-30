@@ -12,7 +12,7 @@ video_metadata:
   youtube_id: null
 ---
 
-The flash animations were developed by Jean-Michel Claus (with voiceover by Gilbert Strang). We are grateful! Funding was provided by a grant from the [The d'Arbeloff Fund for Excellence in MIT Education](http://web.mit.edu/newsoffice/2000/darbeloff-1025.html) as part of The d'Arbeloff Interactive Mathematics Project (d'A I M P).
+The flash animations were developed by Jean-Michel Claus (with voiceover by Gilbert Strang). We are grateful! Funding was provided by a grant from the {{% resource_link "fc3894e3-23c8-4388-81a3-047e997f6f5b" "The d'Arbeloff Fund for Excellence in MIT Education" %}} as part of The d'Arbeloff Interactive Mathematics Project (d'A I M P).
 
 Matrix Multiplication
 ---------------------
